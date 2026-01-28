@@ -6,4 +6,4 @@ Building scalable APIs with **Node.js/Python**. Passionate about clean code & sy
 
 **Projects:** API services, CLI tools, microservices.
 
-📫 **Reach me:** [Email](mailTo:degiuo@gmail.com)
+📫 **Reach me:** [Email](mailto:degiuo@gmail.com)
