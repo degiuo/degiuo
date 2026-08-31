@@ -57,9 +57,9 @@ Backend-разработчик с **1.5+ годами коммерческого
 
 ## 📊 GitHub Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=degiuo&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=degiuo&show_icons=true&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degiuo&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=degiuo&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
