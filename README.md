@@ -6,13 +6,13 @@
 
 ## 🚀 Обо мне
 
-Backend-разработчик с **коммерческим опытом**. Специализируюсь на создании масштабируемых REST API, работе с базами данных и контейнеризации. 
+Backend-разработчик с **1.5+ годами коммерческого опыта**. Специализируюсь на создании масштабируемых REST API, работе с базами данных и контейнеризации. 
 
 Параллельно с разработкой имею опыт системного администрирования (Linux, сети, 1С), что помогает писать код с глубоким пониманием инфраструктуры.
 
 - 🎯 **Сейчас изучаю:** Golang, микросервисы, высоконагруженные системы
-- 💼 **Ищу:** удаленную работу или релокацию (open to relocate)
-- 📫 **Связаться:** [Telegram](https://t.me/MrZombieCheeps) · [Email](ismuhambetovdamir@gmail.com)
+- 💼 **Ищу:** удаленную работу или релокацию
+- 📫 **Связаться:** [Email](mailto:ismuhambetovdamir@gmail.com)
 
 ---
 
@@ -65,8 +65,8 @@ Backend-разработчик с **коммерческим опытом**. С�
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/MrZombieCheeps)
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail)](mailto:ismuhambetovdamir@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)](https://github.com/degiuo)
 
 ---
 
