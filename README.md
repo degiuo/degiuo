@@ -67,7 +67,3 @@ Backend-разработчик с **1.5+ годами коммерческого
 
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail)](mailto:ismuhambetovdamir@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)](https://github.com/degiuo)
-
----
-
-> *“Clean code. Scalable systems. Business solutions.”*
