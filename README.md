@@ -57,13 +57,9 @@ Backend-разработчик с **1.5+ годами коммерческого
 
 ## 📊 GitHub Статистика
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=degiuo&show_icons=true&theme=radical)](https://github.com/degiuo)
+![GitHub Streak](https://streak-stats.demolab.com/?user=degiuo&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degiuo&layout=compact&theme=radical)](https://github.com/degiuo)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=degiuo&theme=dark&hide_border=true)](https://github.com/degiuo)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=degiuo&show_icons=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=degiuo&theme=react-dark&bg_color=000000&hide_border=true)
 
 ---
 
@@ -71,3 +67,7 @@ Backend-разработчик с **1.5+ годами коммерческого
 
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail)](mailto:ismuhambetovdamir@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)](https://github.com/degiuo)
+
+---
+
+> *“Clean code. Scalable systems. Business solutions.”*
