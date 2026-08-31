@@ -63,6 +63,8 @@ Backend-разработчик с **1.5+ годами коммерческого
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=degiuo&theme=dark&hide_border=true)](https://github.com/degiuo)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=degiuo&show_icons=true)
+
 ---
 
 ## 📫 Контакты
